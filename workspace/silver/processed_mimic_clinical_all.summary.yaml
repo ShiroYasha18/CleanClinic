@@ -1,0 +1,12 @@
+input_file: mimic_clinical_all.parquet
+original_columns: 0
+original_rows: 0
+output_file: workspace/silver/processed_mimic_clinical_all.parquet
+output_format: delta
+processed_columns: 3
+processed_rows: 0
+timestamp: '2025-07-17T04:50:33.008935'
+transforms_applied:
+- umls_mapper
+- geo_enricher
+- pii_scrubber

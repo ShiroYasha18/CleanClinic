@@ -1,0 +1,10 @@
+col_count: 6
+columns:
+- source_file
+- processed_date
+- pharmacy_density
+- risk_score
+- gold_processed_date
+- dashboard_ready
+row_count: 0
+timestamp: '2025-07-17T06:46:23.728931'

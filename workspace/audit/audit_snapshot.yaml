@@ -1,0 +1,10 @@
+- column_count: 188
+  filename: workspace/silver/processed_bronze_unified.parquet
+  hash: e04ec913eb64566b66b4f4312fd916421fd8d0b5f79760186a7174cd3cead565
+  row_count: 1934278
+  timestamp: '2025-07-17T04:58:23.892164'
+- column_count: 3
+  filename: workspace/silver/processed_mimic_clinical_all.parquet
+  hash: 4a7063c4acd36af437f5b578eef97caac0b5686e849a23815977864084ae2ee5
+  row_count: 0
+  timestamp: '2025-07-17T04:58:25.307758'

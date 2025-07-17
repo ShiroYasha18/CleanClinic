@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+pyarrow
+pydicom
+presidio-analyzer
+presidio-anonymizer
+requests
+pyyaml 

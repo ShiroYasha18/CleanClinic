@@ -1,0 +1,11 @@
+business_metrics:
+  unique_patients: 101
+quality_metrics:
+  completeness:
+    processed_date: .nan
+    processing_pipeline: .nan
+    source_file: .nan
+  duplicate_rows: 0
+  total_columns: 3
+  total_rows: 0
+timestamp: '2025-07-17T06:33:30.190081'

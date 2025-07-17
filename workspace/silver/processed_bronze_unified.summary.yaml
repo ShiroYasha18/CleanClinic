@@ -1,0 +1,11 @@
+input_file: bronze_unified.parquet
+original_columns: 165
+original_rows: 1934278
+output_file: workspace/silver/processed_bronze_unified.parquet
+output_format: delta
+processed_columns: 188
+processed_rows: 1934278
+timestamp: '2025-07-17T04:35:39.953475'
+transforms_applied:
+- geo_enricher
+- pii_scrubber
